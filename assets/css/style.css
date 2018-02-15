@@ -197,6 +197,11 @@ body {
   margin-top: 10px;
   margin-right: 25px;
  }
+
+.work {
+  width: 100%;
+}
+
  
  /* contact page */
  
@@ -237,5 +242,6 @@ body {
   background: #4aaaa5;
   border: 0 none;
  }
+
 
  
